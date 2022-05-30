@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel (Bobby)</h1>
 <h3 align="center">A passionate teenager programmer</h3>
 
-- 🔭 I’m currently working on [FluentHub](https://github.com/fluenthub-community/FluentHub) and other upcoming project that will be called Passlocker (for Android).
+- 🔭 I’m currently working on [FluentHub](https://github.com/fluenthub-community/FluentHub) and other upcoming projects.
 
 - 🌱 I’m currently learning **C# (and UWP), JavaScript, React, Next.js...**
 
