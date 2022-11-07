@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **Kotlin (for Android apps), JavaScript, React (and also Native)...**
 
-- 👨‍💻 All of my projects are available at my GitHub repositories [https://github.com/BobbyESP?tab=repositories](https://github.com/BobbyESP?tab=repositories)
+- 👨‍💻 All of my projects are available at my [GitHub repositories](https://github.com/BobbyESP?tab=repositories)
 
-- 💬 Ask me about **Kotlin, C#, JavaScript, APIs and whatever you want, i'll try to do my best!**
+- 💬 Ask me about **Kotlin, Jetpack Compose, Android in general, C#, JavaScript, APIs and whatever you want, i'll try to do my best!**
 
 - 📫 How to reach me **gabilessto@gmail.com**
 
