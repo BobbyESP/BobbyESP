@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel (Bobby)</h1>
 <h3 align="center">A passionate teenager programmer</h3>
 
-- 🔭 I’m currently working on [Spowlo](https://github.com/BobbyESP/Spowlo), [Jetispot](https://github.com/BobbyESP/Jetispot) and [Seal](https://github.com/junkfood02/Seal).
+- 🔭 I’m currently working on [Spowlo](https://github.com/BobbyESP/Spowlo), [Jetispot](https://github.com/BobbyESP/Jetispot), [Seal](https://github.com/junkfood02/Seal) and [spotdl-android](https://github.com/BobbyESP/spotdl-android).
 
 - 🌱 I’m currently learning **Kotlin (for Android apps), JavaScript, React (and also Native)...**
 
