@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning **Kotlin (for Android apps)**, **Jetpack Compose**, **Python**, and some other tecnologies for backend  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to the Android world, backend technologies and other things you think I know!
   
 
 - ⚡ Fun fact: **I think i'm very reliable and friendly :))** I always want to help the community with nice tools  
