@@ -50,7 +50,7 @@
   <a href="https://linkedin.com/in/gabriel-font%C3%A1n-rodi%C3%B1o-a50968232" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
   </a>
-  <a href="https://instagram.com/gabiless500" target="_blank">
+  <a href="https://instagram.com/bobbyesp_" target="_blank">
     <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram />
   </a>  
 </div>  
