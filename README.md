@@ -1,79 +1,105 @@
----
+# 👨‍💻 Gabriel Fontán (BobbyESP)
+**GDG Ourense Organizer | Android Software Engineer | Protocol Reverse Engineering | Music Tech-Enthusiast**
 
-<div align="center">
-  <h2>Hi 👋, I'm Gabriel (aka Bobby)! </h2>
-  <h3>🚀 A passionate teenage developer crafting cool projects and tools for the community 🌍</h3>
-</div>  
-
----
-
-### 🚧 Projects in Progress
-- 🔭 Currently working on: [Spowlo](https://github.com/BobbyESP/Spowlo), [Metadator](https://github.com/BobbyESP/Metadator), [Seal](https://github.com/junkfood02/Seal) and some others!  
-
-### 🌱 Learning & Growing
-- 📚 Expanding my skills in **Kotlin (mainly for Android)**, **Jetpack Compose**, **Python**, and exploring backend technologies.  
-- 🔍 Curious about all things Android and backend! 
-
-### 🗣️ Ask Me About
-- 💬 Anything Android, backend tech, or other things you think I might know!  
-- 🤓 I’m always excited to share knowledge and help out the community!
-
-### ⚡ Fun Fact
-- 😊 I pride myself on being reliable and friendly. I love creating tools that make others' lives easier!
-
----
-
-## 🔧 My Skill Set  
-
-### 🌐 Languages (in order of proficiency)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### 📦 Frameworks & Tools
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-343434?style=for-the-badge&logo=jetpack-compose) ![Ktor](https://img.shields.io/badge/Ktor-B125EA?style=for-the-badge&logo=ktor&logoColor=7FFFFF) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### 📊 Databases
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-### 🚀 DevOps & Cloud
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 🔨 Other Tech & Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-
----
-
-## 🤝 Connect with Me
-<div align="center">
-  <a href="https://github.com/BobbyESP" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github />
+<p align="left">
+  <a href="https://github.com/BobbyESP">
+    <img src="https://img.shields.io/github/followers/BobbyESP?label=Follow&style=social">
   </a>
-  <a href="https://linkedin.com/in/gabriel-font%C3%A1n-rodi%C3%B1o-a50968232" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin />
+  <a href="https://linkedin.com/in/gabriel-fontán-rodiño-a50968232">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin">
   </a>
-  <a href="https://instagram.com/bobbyesp_" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram />
-  </a>  
-</div>  
+</p>
 
 ---
 
-## 📈 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BobbyESP&show_icons=true&count_private=true&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyESP&hide_border=true&layout=compact" />
-</div>  
+### 🚀 About Me
+I am a Software Engineer focused on the Android ecosystem and low-level hardware integration. I enjoy "opening the hood" of existing technologies to build better, more modern alternatives. 
+
+Beyond general engineering, **I am a huge music fan**, which has led me to develop numerous tools for the audiophile community. Whether it's managing metadata or building high-performance media tools, I love where code and music intersect.
+
+As an **Organizer of GDG Ourense**, I also bridge the gap between Google technologies and our local developer community in Galicia, Spain.
+
+- 🏛️ **Community Leadership**: Leading **GDG Ourense**, organizing tech events and workshops.
+- 🎵 **Music Tech**: Passionate about building tools that empower users to manage and enjoy their music libraries.
+- 🛠️ **System Integration**: Experienced in reverse-engineering protocols and sensor-based interaction.
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=BobbyESP&&style=flat-square" />
-</div>  
+### 🌟 Featured Projects
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📄 <a href="https://github.com/BobbyESP/Docucraft">Docucraft</a></h4>
+      <p>A privacy-first document scanner using <b>Google's ML Kit</b> for on-device processing. No ads, no trackers, just high-quality OCR and Material You design.</p>
+      <code>ML Kit</code> <code>CameraX</code> <code>Product Design</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📸 <a href="https://github.com/BobbyESP/EdgeFlow">EdgeFlow</a></h4>
+      <p>A modern implementation of the <b>Sony Imaging Edge protocol</b>. Reverse-engineered to allow high-speed photo/video transfer, bypassing the limitations of official legacy software.</p>
+      <code>Protocol Analysis</code> <code>Networking</code> <code>Kotlin</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎮 <a href="https://github.com/BobbyESP/WeMotion">WeMotion</a> (WIP)</h4>
+      <p>Transforming smartphones into <b>Wiimotes</b>. Using Android's IMU sensors and low-latency UDP networking for real-time motion emulation.</p>
+      <code>Sensors</code> <code>UDP/IP</code> <code>Real-time Systems</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🏷️ <a href="https://github.com/BobbyESP/Metadator">Metadator</a></h4>
+      <p>A powerful, long-standing audio metadata editor on the Google Play Store. Part of my journey in building essential tools for music lovers.</p>
+      <code>Music Tech</code> <code>Storage Access Framework</code> <code>Java/Kotlin</code>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<div align="center">
-  <a href="https://paypal.me/bobbyesp" target="_blank">
-    <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" />
-  </a>
-</div>  
+### 🎧 Music & Media Experience
+Music has been the backbone of my development journey. I've spent years building and contributing to projects that handle media downloading, metadata management, and playback optimization.
+* **Legacy Contributions**: Worked on major open-source media tools like *Spowlo* and *Seal*, focusing on UX and backend integration.
+* **Tech Stack**: Deep knowledge of **Media3 (ExoPlayer)**, tagging libraries, and audio-related APIs.
+
+---
+
+### 🏢 Community & Leadership
+**Organizer @ GDG Ourense (Google Developer Groups)**
+* Curating technical content and workshops for the local community.
+* Coordinating with the rest of the GDG Ourense team to create events for sharing the latest in Google, Android, and AI.
+* Check our upcoming events: [gdg.community.dev/gdg-ourense/](https://gdg.community.dev/gdg-ourense/)
+
+---
+
+### 🛠 Technical Toolbox
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Mobile** | `Kotlin` `Jetpack Compose` `Coroutines` `Navigation 3` `KotlinX` `Dagger/Hilt` `Koin` |
+| **Networking** | `UDP/TCP` `Protocol Reverse Engineering` `Ktor` `Retrofit` |
+| **Media Tech** | `Media3` `Audio Processing` `Tagging Libs` `FFmpeg` |
+| **Backend/Tools** | `Firebase` `Supabase` `Python` `Docker` `GitHub Actions` `Bash` and many more... |
+| **AI/ML** | `GenKit` `ML Kit` |
+| **Web** | `Astro` `React` `TypeScript` `ExpressJS` |
+
+---
+
+### 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-stats-plus-theta.vercel.app/api?username=BobbyESP&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats-plus-theta.vercel.app/api/top-langs/?username=BobbyESP&layout=compact&theme=radical&hide_border=true&title_color=4285F4&text_color=94a3b8" width="45%" />
+</p>
+
+---
+
+### 🤝 Let's Connect
+Always open to discussing Android internals, community building, or the latest in high-fidelity audio tools.
+
+- 🌍 **Based in:** Ourense, Spain 🇪🇸
+- 💬 **Ask me about:** Android architecture, GDG, anything related to technology or even music.
+- ☕ **Support my work:** [PayPal.me/bobbyesp](https://paypal.me/bobbyesp)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BobbyESP&color=4285F4&style=flat-square&label=PROFILE+VIEWS" alt="views" />
+</p>
