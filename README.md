@@ -19,9 +19,9 @@ Beyond general engineering, **I am a huge music fan**, which has led me to devel
 
 As an **Organizer of GDG Ourense**, I also bridge the gap between Google technologies and our local developer community in Galicia, Spain.
 
-- 🏛️ **Community Leadership**: Leading **GDG Ourense**, organizing tech events and workshops.
+- 🏛️ **Community Leadership**: Organizer in **GDG Ourense**, coordinate tech events and workshops.
 - 🎵 **Music Tech**: Passionate about building tools that empower users to manage and enjoy their music libraries.
-- 🛠️ **System Integration**: Experienced in reverse-engineering protocols and sensor-based interaction.
+- 🛠️ **System Integration**: Experienced in reverse-engineering protocols. Implementation of ML Kit functions in my apps.
 
 ---
 
